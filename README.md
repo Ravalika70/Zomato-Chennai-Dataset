@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I'm Ravalika Pathipati, an aspiring data analys
 - Supervised Machine Learning 
 - SQL
 - Excel
-- Data Visualization Tools (e.g., Matplotlib, Seaborn, Tableau)
+- Data Visualization Tools (e.g., Matplotlib, Seaborn, Tableau , PowerBI)
 
 ## Contact
 
